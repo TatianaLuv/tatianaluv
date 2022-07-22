@@ -2,7 +2,7 @@
 
 <h2> :woman_technologist: Cybersecurity Projects:</h2>
 
-- [SIEM Setup | Azure Sentinel Tutorial MAP and See LIVE CYBER ATTACKS!](https://github.com/TatianaLuv/ActiveDirectoryLab)
+- [SIEM Setup | Azure Sentinel Map and See Live Cyber Attacks!](https://github.com/TatianaLuv/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
