@@ -4,6 +4,8 @@
 
 - [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/ActiveDirectoryLab)
 
+- [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/ActiveDirectoryLab)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
