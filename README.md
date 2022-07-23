@@ -5,7 +5,7 @@
 - [SIEM Setup | Azure Sentinel Map and Built a VM on Azure]
 (https://github.com/TatianaLuv/Azure-Sentinel-Map-and-Built-a-VM-on-Azure)
 
-- [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/ActiveDirectoryLab)
+- [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/AzureSentinelMapAndVM)
 
 <h2> 🤳 Connect with me:</h2>
 
