@@ -4,6 +4,9 @@
 
 - [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/AzureSentinelMapAndVM)
 
+- [Custom Security Log_Exporter With Powershell](https://github.com/TatianaLuv/Sentinel-API/blob/38943f0d6d129dc92712bbb8033fb93f6be79239/Custom_Security_Log_Exporter.ps1)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
