@@ -6,6 +6,7 @@
 
 - [Custom Security Log_Exporter With Powershell](https://github.com/TatianaLuv/Sentinel-API/blob/38943f0d6d129dc92712bbb8033fb93f6be79239/Custom_Security_Log_Exporter.ps1)
 
+- [Nessus Lab: Vulnerability Management](https://github.com/TatianaLuv/AzureSentinelMapAndVM)
 
 <h2> 🤳 Connect with me:</h2>
 
