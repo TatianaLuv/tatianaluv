@@ -2,7 +2,8 @@
 
 <h2> :woman_technologist: Cybersecurity Projects:</h2>
 
-- [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/ActiveDirectoryLab)
+- [SIEM Setup | Azure Sentinel Map and Built a VM on Azure]
+(https://github.com/TatianaLuv/Azure-Sentinel-Map-and-Built-a-VM-on-Azure)
 
 - [SIEM Setup | Azure Sentinel Map and Built a VM on Azure](https://github.com/TatianaLuv/ActiveDirectoryLab)
 
